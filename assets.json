@@ -1,0 +1,168 @@
+{
+  "style": "stylized 3D game art, soft clay forms with glossy highlights, chunky readable silhouettes, deep plum and metallic gold palette, no photo, no photorealism, no DSLR, no lens flare, no bokeh",
+  "assets": [
+    {
+      "name": "bg_menu",
+      "type": "bg",
+      "transparent": false,
+      "target": "Assets/Art/Textures/_BASE/Backgrounds/BG_main.png",
+      "prompt": "vertical 9:16 deep plum velvet casino salon interior, heavy gold cornice and hanging drapes, warm amber lamps, soft purple haze, stylized 3D game art with glossy clay forms, cinematic, no text, no UI, no people, no photo"
+    },
+    {
+      "name": "bg_game",
+      "type": "bg",
+      "transparent": false,
+      "target": "Assets/Art/Textures/_BASE/Backgrounds/BG_game.png",
+      "prompt": "vertical 9:16 dark plum casino wall, soft blurred gold filigree pattern, low contrast, even lighting for UI overlay, stylized 3D game art, no text, no UI, no photo"
+    },
+
+    {
+      "name": "sprite_sym_cherry",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_sym_cherry.png",
+      "prompt": "one single pair of glossy red cherries on a green stem, front view, upright, symmetric about the vertical axis, centred and fully in frame, crisp silhouette, stylized 3D glossy game icon, minimal ground shadow, no text, no other objects"
+    },
+    {
+      "name": "sprite_sym_lemon",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_sym_lemon.png",
+      "prompt": "one single glossy yellow lemon with a small green leaf, front view, upright, symmetric about the vertical axis, centred and fully in frame, crisp silhouette, stylized 3D glossy game icon, minimal ground shadow, no text, no other objects"
+    },
+    {
+      "name": "sprite_sym_plum",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_sym_plum.png",
+      "prompt": "one single glossy deep purple plum with a short stem, front view, upright, symmetric about the vertical axis, centred and fully in frame, crisp silhouette, stylized 3D glossy game icon, minimal ground shadow, no text, no other objects"
+    },
+    {
+      "name": "sprite_sym_watermelon",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_sym_watermelon.png",
+      "prompt": "one single glossy watermelon slice, red flesh and green rind, front view, upright, symmetric about the vertical axis, centred and fully in frame, crisp silhouette, stylized 3D glossy game icon, minimal ground shadow, no text, no other objects"
+    },
+    {
+      "name": "sprite_sym_grapes",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_sym_grapes.png",
+      "prompt": "one single bunch of glossy purple grapes with a green leaf on top, front view, upright, symmetric about the vertical axis, centred and fully in frame, crisp silhouette, stylized 3D glossy game icon, minimal ground shadow, no text, no other objects"
+    },
+    {
+      "name": "sprite_sym_bell",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_sym_bell.png",
+      "prompt": "one single polished golden bell with a small clapper, front view, upright, symmetric about the vertical axis, centred and fully in frame, crisp silhouette, stylized 3D glossy game icon, minimal ground shadow, no text, no other objects"
+    },
+    {
+      "name": "sprite_sym_crown",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_sym_crown.png",
+      "prompt": "one single jewelled royal crown in gold with purple gems, front view, upright, symmetric about the vertical axis, centred and fully in frame, crisp silhouette, stylized 3D glossy game icon, minimal ground shadow, no text, no other objects"
+    },
+    {
+      "name": "sprite_sym_seven",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_sym_seven.png",
+      "prompt": "one single lucky number seven digit sculpted in purple enamel with a gold bevelled edge, front view, upright, centred and fully in frame, crisp silhouette, stylized 3D glossy game icon, minimal ground shadow, no other objects"
+    },
+    {
+      "name": "sprite_sym_clover_wild",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_sym_clover_wild.png",
+      "prompt": "one single four-leaf clover cast in polished gold, front view, upright, symmetric about the vertical axis, centred and fully in frame, crisp silhouette, stylized 3D glossy game icon, minimal ground shadow, no text, no other objects"
+    },
+    {
+      "name": "sprite_sym_coin_scatter",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_sym_coin_scatter.png",
+      "prompt": "one single royal gold coin medallion with a plain rim and a smooth face, front view, upright, symmetric about the vertical axis, centred and fully in frame, crisp silhouette, stylized 3D glossy game icon, minimal ground shadow, no text, no other objects"
+    },
+
+    {
+      "name": "sprite_reel_backplate",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_reel_backplate.png",
+      "prompt": "one single dark plum velvet rectangular panel with a thin gold inner line and rounded corners, flat and even across the middle so symbols read over it, front view, symmetric, centred and fully in frame, stylized 3D game art, no text, no other objects"
+    },
+    {
+      "name": "sprite_corner_ornament",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_corner_ornament.png",
+      "prompt": "one single small gold filigree corner flourish, front view, symmetric about the diagonal, centred and fully in frame, crisp silhouette, stylized 3D glossy game art, no text, no other objects"
+    },
+    {
+      "name": "sprite_emblem_clover",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_emblem_clover.png",
+      "prompt": "one single abstract emblem, a four-leaf clover struck into a round gold coin medallion with a laurel ring, front view, symmetric about the vertical axis, centred and fully in frame, crisp silhouette, stylized 3D glossy game art, no letters, no text, no other objects"
+    },
+    {
+      "name": "sprite_spin_button",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_spin_button.png",
+      "prompt": "one single wide rounded button face, amber to gold glossy gradient with a polished gold rim, front view, symmetric, centred and fully in frame, stylized 3D game art, no text, no icons, no other objects"
+    },
+    {
+      "name": "sprite_win_burst",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_win_burst.png",
+      "prompt": "one single radial gold starburst with soft tapering rays, front view, symmetric about both axes, centred and fully in frame, stylized 3D glossy game art, no text, no other objects"
+    },
+    {
+      "name": "sprite_curtain_drape",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_curtain_drape.png",
+      "prompt": "one single tall plum velvet curtain drape with a gold tieback, side view, facing LEFT, hanging from the top of the frame, centred and fully in frame, crisp silhouette, stylized 3D glossy game art, no text, no other objects"
+    },
+    {
+      "name": "sprite_icon_coin",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_icon_coin.png",
+      "prompt": "one single plain gold coin, front view, symmetric about the vertical axis, centred and fully in frame, crisp silhouette, stylized 3D glossy game icon, no text, no other objects"
+    },
+    {
+      "name": "sprite_icon_check",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_icon_check.png",
+      "prompt": "one single bold gold check mark, front view, centred and fully in frame, crisp silhouette, stylized 3D glossy game icon, no text, no other objects"
+    },
+    {
+      "name": "sprite_icon_close",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_icon_close.png",
+      "prompt": "one single bold gold cross, two bars crossing at the centre, front view, symmetric about both axes, centred and fully in frame, crisp silhouette, stylized 3D glossy game icon, no text, no other objects"
+    },
+    {
+      "name": "sprite_icon_pause",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_icon_pause.png",
+      "prompt": "one single pause mark, two thick gold vertical bars side by side, front view, symmetric about the vertical axis, centred and fully in frame, crisp silhouette, stylized 3D glossy game icon, no text, no other objects"
+    },
+    {
+      "name": "sprite_icon_back",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_icon_back.png",
+      "prompt": "one single thick gold chevron arrow head, side view, facing LEFT, centred and fully in frame, crisp silhouette, stylized 3D glossy game icon, no text, no other objects"
+    }
+  ]
+}
